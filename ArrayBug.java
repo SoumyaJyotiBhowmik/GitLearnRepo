@@ -2,7 +2,7 @@ package programs;
 
 import java.util.ArrayList;
 /*
-The following code is supposed to rotate the array A by B positions.
+The following code is supposed to rotate the array A by B positions
 A : [1 2 3 4 5 6]
 		B : 1
 
