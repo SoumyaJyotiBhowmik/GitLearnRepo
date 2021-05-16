@@ -21,6 +21,7 @@ public class ArrayBug {
 		System.out.println("");
 		f.stream().forEach(a-> System.out.println(a));
 		System.out.println("Added line for dev branch");
+		System.out.println("New line for dev branch");
 	}
 public static ArrayList<Integer> rotateArray(ArrayList<Integer> A, int B) {
 		    int index = 0;
