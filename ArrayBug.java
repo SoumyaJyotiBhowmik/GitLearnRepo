@@ -18,6 +18,7 @@ public class ArrayBug {
 	public static void main(String[] args) {
 		ArrayList<Integer> l =  new ArrayList(Arrays.asList(1,2,3,4,5,6));
 		List f = rotateArray(l,3);
+		System.out.println("");
 		f.stream().forEach(a-> System.out.println(a));
 	}
 public static ArrayList<Integer> rotateArray(ArrayList<Integer> A, int B) {
